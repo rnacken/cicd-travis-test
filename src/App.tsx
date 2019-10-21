@@ -7,7 +7,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <p>2 times 2 is {double(2)}</p>
+        <p>2 times 12 is {double(12)}</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
