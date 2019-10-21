@@ -4,6 +4,7 @@ node_js:
 script: 
   - tsc
   - echo "Ru is deploying his test-app!"
+  - yarn build
 deploy:
   provider: pages
   skip_cleanup: true
