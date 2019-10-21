@@ -7,6 +7,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>GH PAGES</h1>
         <p>2 times 2 is {double(2)}</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
