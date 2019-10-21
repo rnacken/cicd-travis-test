@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cicd-travis-test/static/css/main.dfca195d.chunk.css",
+    "main.js": "/cicd-travis-test/static/js/main.f7aeb702.chunk.js",
+    "main.js.map": "/cicd-travis-test/static/js/main.f7aeb702.chunk.js.map",
+    "runtime-main.js": "/cicd-travis-test/static/js/runtime-main.ad04b145.js",
+    "runtime-main.js.map": "/cicd-travis-test/static/js/runtime-main.ad04b145.js.map",
+    "static/js/2.1fa8756a.chunk.js": "/cicd-travis-test/static/js/2.1fa8756a.chunk.js",
+    "static/js/2.1fa8756a.chunk.js.map": "/cicd-travis-test/static/js/2.1fa8756a.chunk.js.map",
+    "index.html": "/cicd-travis-test/index.html",
+    "precache-manifest.29bc022bd6b68f46869fef7e511d52da.js": "/cicd-travis-test/precache-manifest.29bc022bd6b68f46869fef7e511d52da.js",
+    "service-worker.js": "/cicd-travis-test/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/cicd-travis-test/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/cicd-travis-test/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad04b145.js",
+    "static/js/2.1fa8756a.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.f7aeb702.chunk.js"
+  ]
+}
